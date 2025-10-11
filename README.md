@@ -19,7 +19,7 @@ Here are a few things I've picked up along my learning journey.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-lemon/)
 
 
- or contact me at [loganlemon65@gmail.com](mailto:loganlemon65@gmail.com) .
+ or contact me at [loganlemon65@gmail.com](mailto:loganlemon65@gmail.com)
 
 
  
