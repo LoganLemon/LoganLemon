@@ -1,25 +1,21 @@
-
 # Logan Lemon
 
-Junior Computer Science student interested in software engineering, systems programming, and automation. I focus on building efficient, maintainable projects using C++, Python, and modern development tools.
+Computer Science student at Michigan State University, graduating December 2026. I build reliable full-stack web applications, APIs, and developer tooling with TypeScript, React, Angular, Python, and C++.
 
+## Featured work
 
-## ⚡ Tools
+### [Franke Photography](https://frankephotog.com) — Production client platform
+Built and deployed a booking, checkout, and photo-delivery platform that replaced manual workflows. The platform uses React, Vite, Firebase, serverless REST APIs, JWT-based anonymous authentication, Stripe Checkout, and Dropbox automation.
 
-Here are a few things I've picked up along my learning journey.
+### [Cryptocurrency Exchange & Discord Bot](https://github.com/LoganLemon/Cryptocurrency-Exchange)
+Modern C++ exchange simulator with a limit order book, a Python Discord frontend via pybind11, SQLite, GitHub Actions CI/CD, end-to-end tests, and CoinGecko live-price integration.
 
+## Technologies
 
- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+**Languages:** TypeScript, JavaScript, Python, C++, Java, SQL, Bash  
+**Web & APIs:** React, Angular, Vite, FastAPI, REST APIs, Stripe  
+**Cloud & tools:** GCP, Firebase, Firestore, Cloud Functions, Docker, GitHub Actions, Git
 
+## Get in touch
 
- ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-
-
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-lemon/)
-
-
- or contact me at [loganlemon65@gmail.com](mailto:loganlemon65@gmail.com)
-
-
- 
+[LinkedIn](https://www.linkedin.com/in/logan-lemon/) · [GitHub](https://github.com/LoganLemon) · [loganlemon65@gmail.com](mailto:loganlemon65@gmail.com)
