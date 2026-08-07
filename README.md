@@ -2,7 +2,7 @@
 
 Computer Science student at Michigan State University, graduating December 2026. I build full-stack web applications, APIs, and developer tooling with TypeScript, React, Angular, Python, and C++.
 
-Currently an Application Developer Intern at Delta Dental, contributing Angular, Java, and REST API features to a claims-management application.
+Currently an Application Developer Intern at Delta Dental, contributing Angular, Java, and REST API features.
 
 ## Featured work
 
