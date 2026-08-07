@@ -1,10 +1,12 @@
 # Logan Lemon
 
-Computer Science student at Michigan State University, graduating December 2026. I build reliable full-stack web applications, APIs, and developer tooling with TypeScript, React, Angular, Python, and C++.
+Computer Science student at Michigan State University, graduating December 2026. I build full-stack web applications, APIs, and developer tooling with TypeScript, React, Angular, Python, and C++.
+
+Currently an Application Developer Intern at Delta Dental, contributing Angular, Java, and REST API features to a claims-management application.
 
 ## Featured work
 
-### [Franke Photography](https://frankephotog.com) — Production client platform
+### [Franke Photography](https://frankephotog.com): Production client platform
 Built and deployed a booking, checkout, and photo-delivery platform that replaced manual workflows. The platform uses React, Vite, Firebase, serverless REST APIs, JWT-based anonymous authentication, Stripe Checkout, and Dropbox automation.
 
 ### [Cryptocurrency Exchange & Discord Bot](https://github.com/LoganLemon/Cryptocurrency-Exchange)
@@ -18,4 +20,4 @@ Modern C++ exchange simulator with a limit order book, a Python Discord frontend
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/logan-lemon/) · [GitHub](https://github.com/LoganLemon) · [loganlemon65@gmail.com](mailto:loganlemon65@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/logan-lemon/) · [loganlemon65@gmail.com](mailto:loganlemon65@gmail.com)
